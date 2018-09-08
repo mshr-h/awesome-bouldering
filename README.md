@@ -21,3 +21,7 @@ A curated list of Climbing/Bouldering information.
 - [La Sportiva](https://www.sportiva.com/)
 - [Evolv Sports](https://evolvsports.com/)
 - [Five Ten](http://fiveten.com/)
+
+## Contributing
+
+Feel free to submit pull requests.
