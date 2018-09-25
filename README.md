@@ -8,6 +8,9 @@ A curated list of Climbing/Bouldering information.
 
 - [Mickipedia - ミキペディア｜クライミングをもっと考えたい全ての人へ](http://micki-pedia.com/)
 - [山と溪谷社のクライミング・ボルダリング総合サイト](https://www.climbing-net.com/)
+- [人生暇つぶし](http://blog.livedoor.jp/powerofrock/)
+- [ボルダリング好きエンジニアの雑記帳](http://sphendon.hatenablog.jp/)
+- [クライマーズ公式サイト｜CLIMBERSはクライミング、ボルダリングをテーマにした総合WEBサイト](https://climbers-web.jp/)
 
 ## Video
 
