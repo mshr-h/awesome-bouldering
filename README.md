@@ -6,11 +6,11 @@ A curated list of Climbing/Bouldering information.
 
 ## Blog
 
-- [Mickipedia - ミキペディア｜クライミングをもっと考えたい全ての人へ](http://micki-pedia.com/)
 - [山と溪谷社のクライミング・ボルダリング総合サイト](https://www.climbing-net.com/)
+- [クライマーズ公式サイト｜CLIMBERSはクライミング、ボルダリングをテーマにした総合WEBサイト](https://climbers-web.jp/)
+- [Mickipedia - ミキペディア｜クライミングをもっと考えたい全ての人へ](http://micki-pedia.com/)
 - [人生暇つぶし](http://blog.livedoor.jp/powerofrock/)
 - [ボルダリング好きエンジニアの雑記帳](http://sphendon.hatenablog.jp/)
-- [クライマーズ公式サイト｜CLIMBERSはクライミング、ボルダリングをテーマにした総合WEBサイト](https://climbers-web.jp/)
 
 ## Video
 
@@ -24,11 +24,21 @@ A curated list of Climbing/Bouldering information.
 - [La Sportiva](https://www.sportiva.com/)
 - [Evolv Sports](https://evolvsports.com/)
 - [Five Ten](http://fiveten.com/)
+- [Tenaya](https://tenaya.net/en/)
+- [Scarpa](http://www.lostarrow.co.jp/scarpa/)
+- [Ocun](http://www.ocun.com/en/index.html)
+- [Butora](http://www.butora.com/)
+- [Boreal](http://www.borealoutdoor.com/)
+- [Black Diamond](http://www.blackdiamondequipment.com/)
+- [Red Chili](https://www.redchiliclimbing.com/en/index.php)
+- [Unparallel](https://www.unparallelsports.com/product-category/climbing/)
 
 ## Services
 
 - [GO BOULDER](https://go-boulder.com/)
-  - Ride sharing services for climbers
+  - Ride sharing service for climbers
+- [OnlineObservation](https://onlineobservation.com/)
+  - Archive bouldering problem for RouteSetters, Gyms, Promotors, and Climbers. 3D scan of bouldering problems and Conversion services for climbers.
 
 ## Contributing
 
