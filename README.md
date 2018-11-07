@@ -15,6 +15,7 @@ A curated list of Bouldering information.
 ## Video
 
 - [International Federation of Sport Climbing](https://www.youtube.com/channel/UC2MGuhIaOP6YLpUx106kTQw)
+  - The world governing body for sport climbing worlwide.
 - [JMSCA Competition TV](https://www.youtube.com/channel/UCnjTK_woY8DUgXeVQLgug9A)
 - [USA Climbing](https://www.youtube.com/channel/UCAthhtcB-Aa5yDg8ECTTqcA)
 - [EpicTV](https://www.youtube.com/channel/UCFdWDF3q3R2AphJ1InJWMlg)
