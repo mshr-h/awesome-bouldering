@@ -40,6 +40,10 @@ A curated list of Climbing/Bouldering information.
 - [OnlineObservation](https://onlineobservation.com/)
   - Archive bouldering problem for RouteSetters, Gyms, Promotors, and Climbers. 3D scan of bouldering problems and Conversion services for climbers.
 
+## Shop
+
+- [Bananafingers](https://www.bananafingers.co.uk/)
+
 ## Contributing
 
 Feel free to submit pull requests.
