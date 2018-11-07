@@ -1,8 +1,8 @@
-# Awesome - Climbing/Bouldering stuff
+# Awesome - Bouldering stuff
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mshr-h/awesome-climbing)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mshr-h/awesome-bouldering)
 
-A curated list of Climbing/Bouldering information.
+A curated list of Bouldering information.
 
 ## Blog
 
