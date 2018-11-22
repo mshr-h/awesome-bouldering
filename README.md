@@ -4,6 +4,15 @@
 
 A curated list of Bouldering information.
 
+## Websites
+
+- [GO BOULDER](https://go-boulder.com/)
+  - Ride sharing service for climbers
+- [OnlineObservation](https://onlineobservation.com/)
+  - Archive bouldering problem for RouteSetters, Gyms, Promotors, and Climbers. 3D scan of bouldering problems and Conversion services for climbers.
+- [theCrag](https://www.thecrag.com/)
+  - The largest collaborative rock climbing & bouldering platform.
+
 ## Blog
 
 - [山と溪谷社のクライミング・ボルダリング総合サイト](https://www.climbing-net.com/)
@@ -33,13 +42,6 @@ A curated list of Bouldering information.
 - [Black Diamond](http://www.blackdiamondequipment.com/)
 - [Red Chili](https://www.redchiliclimbing.com/en/index.php)
 - [Unparallel](https://www.unparallelsports.com/product-category/climbing/)
-
-## Services
-
-- [GO BOULDER](https://go-boulder.com/)
-  - Ride sharing service for climbers
-- [OnlineObservation](https://onlineobservation.com/)
-  - Archive bouldering problem for RouteSetters, Gyms, Promotors, and Climbers. 3D scan of bouldering problems and Conversion services for climbers.
 
 ## Shop
 
