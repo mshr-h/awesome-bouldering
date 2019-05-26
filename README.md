@@ -6,7 +6,7 @@ A curated list of Bouldering information.
 
 ## Websites
 
-- [GO BOULDER](https://go-boulder.com/)
+- [GO BOULDER(Japanese)](https://go-boulder.com/)
   - Ride sharing service for climbers
 - [OnlineObservation](https://onlineobservation.com/)
   - Archive bouldering problem for RouteSetters, Gyms, Promotors, and Climbers. 3D scan of bouldering problems and Conversion services for climbers.
@@ -14,6 +14,8 @@ A curated list of Bouldering information.
   - The largest collaborative rock climbing & bouldering platform.
 
 ## Blog
+
+### Japanese
 
 - [山と溪谷社のクライミング・ボルダリング総合サイト](https://www.climbing-net.com/)
 - [クライマーズ公式サイト｜CLIMBERSはクライミング、ボルダリングをテーマにした総合WEBサイト](https://climbers-web.jp/)
